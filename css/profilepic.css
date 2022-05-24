@@ -1,0 +1,9 @@
+img {
+    background-image: url(./isa.jpg);
+    background-size: cover;
+    width: 190px;
+    box-shadow: 0 0 1em black;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}

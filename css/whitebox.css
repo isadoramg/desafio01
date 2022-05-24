@@ -1,0 +1,17 @@
+
+.whitebox {
+    background-color: white;
+    bottom: 0%;
+    font-size: large;
+    left: 25%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    position: absolute;
+    right: 0%;
+    text-align: center;
+    text-decoration-color: black;
+    top: 30%;
+    z-index: -1;
+}
